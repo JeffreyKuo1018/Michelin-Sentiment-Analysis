@@ -1,8 +1,8 @@
 # Michelin Sentiment Analysis
 
-// This repository contains the MSc Data Science dissertation by **Chun-Cheng Kuo** at the University of Sheffield.
-// Dissertation Title: **Evaluating the Worth of Michelin Guide-Recommended Restaurants in London Through Sentiment Analysis: Consumer Perspectives and Comparative Insights**.
-// The research explores the relationship between expert Michelin Guide ratings and consumer sentiment on Yelp for restaurants in **London, UK**.
+- This repository contains the MSc Data Science dissertation by **Chun-Cheng Kuo** at the University of Sheffield.
+- Dissertation Title: **Evaluating the Worth of Michelin Guide-Recommended Restaurants in London Through Sentiment Analysis: Consumer Perspectives and Comparative Insights**.
+- The research explores the relationship between expert Michelin Guide ratings and consumer sentiment on Yelp for restaurants in **London, UK**.
 
 ---
 
