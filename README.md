@@ -16,14 +16,15 @@
 
 ## ⚖️ License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-You may share and adapt the material with proper attribution **for non-commercial use only**.
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this code, provided that the original license and copyright notice are included.  
+See the [LICENSE](./LICENSE) file for full license text.
 
 > © 2024 Chun-Cheng Kuo
 
 ---
 
-## 📬 Contact
+## Contact Information
 
-📧 Email: cckuo881018@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/chunchengkuo1018/
+- Email: cckuo881018@gmail.com
+- LinkedIn: www.linkedin.com/in/chunchengkuo1018/
