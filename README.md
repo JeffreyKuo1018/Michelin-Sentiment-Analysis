@@ -49,7 +49,8 @@ This research demonstrates how **Natural Language Processing (NLP)** can complem
 ## Disclaimer
 
 This research is for **academic purposes only**.  
-The restaurant list is sourced from the **MICHELIN Guide**, and review data is obtained from **Yelp**. **All data is used non-commercially**. Please cite appropriately if reused.
+The restaurant list is sourced from the **MICHELIN Guide**, and review data is obtained from **Yelp**.  
+**All data is used non-commercially**. Please cite appropriately if reused.
 
 ---
 
