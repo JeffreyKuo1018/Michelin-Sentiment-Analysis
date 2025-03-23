@@ -55,9 +55,11 @@ This research is for **academic purposes only**. The restaurant list is sourced 
 ## License
 
 This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this code, provided that the original license and copyright notice are included. See the [LICENSE](./LICENSE) file for full license text.
+You are free to use, modify, and distribute this code, provided that the original license and copyright notice are included. 
 
 > © 2024 Chun-Cheng Kuo
+
+See the [LICENSE](./LICENSE) file for full license text.
 
 ---
 
