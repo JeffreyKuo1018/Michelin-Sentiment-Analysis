@@ -52,6 +52,9 @@ This research is for **academic purposes only**.
 The restaurant list is sourced from the **MICHELIN Guide**, and review data is obtained from **Yelp**.  
 **All data is used non-commercially**. Please cite appropriately if reused.
 
+- **MICHELIN Guide:** https://guide.michelin.com/gb/en/
+- **Yelp:** https://www.yelp.co.uk/
+
 ---
 
 ## License
@@ -67,5 +70,5 @@ See the [LICENSE](./LICENSE) file for full license text.
 
 ## Contact Information
 
-- Email: cckuo881018@gmail.com
-- LinkedIn: www.linkedin.com/in/chunchengkuo1018/
+- **Email:** cckuo881018@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/chunchengkuo1018/
