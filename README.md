@@ -3,7 +3,7 @@
 This repository contains the MSc Data Science dissertation by **Chun-Cheng Kuo**,  
 conducted at the **University of Sheffield**, Information School, Department of Data Science, 2024.
 
----
+--
 
 ## Dissertation Title: 
 
