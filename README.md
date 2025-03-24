@@ -1,4 +1,6 @@
 # Michelin Sentiment Analysis
+### 🍽️ Michelin Restaurants vs Public Opinion: Sentiment Analysis of Yelp Reviews in London
+
 
 This repository contains the MSc Data Science dissertation by **Chun-Cheng Kuo**,  
 conducted at the **University of Sheffield**, Information School, Department of Data Science, 2024.
