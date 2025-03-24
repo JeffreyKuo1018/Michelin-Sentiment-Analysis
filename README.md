@@ -1,5 +1,5 @@
 # Michelin Sentiment Analysis
-#### 🍽️ Michelin Restaurants vs Public Opinion: Sentiment Analysis of Yelp Reviews in London
+### Michelin Guide Restaurants vs Public Opinion: Sentiment Analysis of Yelp Reviews in London
 
 
 This repository contains the MSc Data Science dissertation by **Chun-Cheng Kuo**,  
