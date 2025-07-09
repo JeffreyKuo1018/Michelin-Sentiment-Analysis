@@ -1,0 +1,5 @@
+cp ~/Desktop/UoS_MSc Dissertation.pdf Docs/UoS_MSc Dissertation.pdf
+
+git add Docs/UoS_MSc Dissertation.pdf
+git commit -m "Add project report PDF"
+git push origin main   # 或其他分支
